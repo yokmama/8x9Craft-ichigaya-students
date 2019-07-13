@@ -1,0 +1,243 @@
+[09:16:19] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[09:16:19] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[09:16:19] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[09:16:19] [main/INFO]: Forge Mod Loader version 14.23.5.2768 for Minecraft 1.12.2 loading
+[09:16:19] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_74, running on Mac OS X:x86_64:10.14.5, installed at /Users/maatan/Library/Application Support/minecraft/runtime/jre-x64/jre.bundle/Contents/Home
+[09:16:19] [main/INFO]: Searching /Users/maatan/Documents/minecraft/profile/8x9Craft-ichigaya-students/mods for mods
+[09:16:19] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[09:16:19] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[09:16:19] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[09:16:19] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[09:16:19] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[09:16:26] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[09:16:26] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[09:16:26] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[09:16:26] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[09:16:26] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[09:16:26] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[09:16:26] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[09:16:27] [main/INFO]: Setting user: yokmama
+[09:16:30] [main/INFO]: LWJGL Version: 2.9.2
+[09:16:30] [main/INFO]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Mac OS X (x86_64) version 10.14.5
+	Java Version: 1.8.0_74, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 408137304 bytes (389 MB) / 872415232 bytes (832 MB) up to 2147483648 bytes (2048 MB)
+	JVM Flags: 7 total; -Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'Intel Inc.' Version: '2.1 INTEL-12.9.22' Renderer: 'Intel(R) Iris(TM) Plus Graphics 640'
+[09:16:30] [main/INFO]: MinecraftForge v14.23.5.2768 Initialized
+[09:16:30] [main/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[09:16:30] [main/INFO]: Replaced 1036 ore ingredients
+[09:16:31] [main/INFO]: Searching /Users/maatan/Documents/minecraft/profile/8x9Craft-ichigaya-students/mods for mods
+[09:16:33] [main/INFO]: Forge Mod Loader has identified 6 mods to load
+[09:16:33] [Thread-3/INFO]: Using sync timing. 200 frames of Display.update took 968657537 nanos
+[09:16:33] [main/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, mc8x9, worldedit] at CLIENT
+[09:16:33] [main/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, mc8x9, worldedit] at SERVER
+[09:16:34] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:8x9Craft, FMLFileResourcePack:WorldEdit
+[09:16:34] [main/INFO]: Processing ObjectHolder annotations
+[09:16:34] [main/INFO]: Found 1197 ObjectHolder annotations
+[09:16:34] [main/INFO]: Identifying ItemStackHolder annotations
+[09:16:34] [main/INFO]: Found 0 ItemStackHolder annotations
+[09:16:34] [main/INFO]: Configured a dormant chunk cache size of 0
+[09:16:34] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: java.lang.ClassNotFoundException: com.boydti.fawe.FaweAPI
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at java.lang.Class.forName0(Native Method)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at java.lang.Class.forName(Class.java:264)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at com.kayosystem.mc8x9.worldedit.WorldEditPlugin.checkEditor(WorldEditPlugin.java:21)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at com.kayosystem.mc8x9.Main.preInit(Main.java:220)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:624)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:627)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:252)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:466)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:377)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at net.minecraft.client.main.Main.main(SourceFile:123)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[09:16:34] [main/INFO]: [com.kayosystem.mc8x9.worldedit.WorldEditPlugin:checkEditor:24]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[09:16:34] [main/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: java.lang.NullPointerException
+[09:16:34] [main/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+[09:16:34] [main/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 47 more
+[09:16:35] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Target: null
+[09:16:37] [main/INFO]: Applying holder lookups
+[09:16:37] [main/INFO]: Holder lookups applied
+[09:16:37] [main/INFO]: Applying holder lookups
+[09:16:37] [main/INFO]: Holder lookups applied
+[09:16:37] [main/INFO]: Applying holder lookups
+[09:16:37] [main/INFO]: Holder lookups applied
+[09:16:37] [main/INFO]: Applying holder lookups
+[09:16:37] [main/INFO]: Holder lookups applied
+[09:16:37] [main/INFO]: Injecting itemstacks
+[09:16:37] [main/INFO]: Itemstack injection complete
+[09:16:38] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[09:16:38] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[09:16:38] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[09:16:38] [Thread-5/INFO]: OpenAL initialized.
+[09:16:38] [Sound Library Loader/INFO]: Sound engine started
+[09:16:41] [main/INFO]: Max texture size: 16384
+[09:16:42] [main/INFO]: Created: 1024x512 textures-atlas
+[09:16:45] [main/INFO]: Applying holder lookups
+[09:16:45] [main/INFO]: Holder lookups applied
+[09:16:46] [main/INFO]: Injecting itemstacks
+[09:16:46] [main/INFO]: Itemstack injection complete
+[09:16:46] [main/INFO]: WorldEdit for Forge (version 6.1.8) is loaded
+[09:16:46] [main/INFO]: Forge Mod Loader has successfully loaded 6 mods
+[09:17:15] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[09:17:15] [Server thread/INFO]: Generating keypair
+[09:17:16] [Server thread/INFO]: This world was saved with mod forge version 14.23.1.2561 and it is now at version 14.23.5.2768, things may not work well
+[09:17:16] [Server thread/ERROR]: This world was saved with mod mercurius_updater which appears to be missing, things may not work well
+[09:17:16] [Server thread/INFO]: Injecting existing registry data into this server instance
+[09:17:16] [Server thread/INFO]: Applying holder lookups
+[09:17:16] [Server thread/INFO]: Holder lookups applied
+[09:17:16] [Server thread/INFO]: Loading dimension 0 (hakkunworld) (net.minecraft.server.integrated.IntegratedServer@2a72c76e)
+[09:17:16] [Server thread/INFO]: Loaded 488 advancements
+[09:17:16] [Server thread/INFO]: Loading dimension -1 (hakkunworld) (net.minecraft.server.integrated.IntegratedServer@2a72c76e)
+[09:17:16] [Server thread/INFO]: Loading dimension 1 (hakkunworld) (net.minecraft.server.integrated.IntegratedServer@2a72c76e)
+[09:17:16] [Server thread/INFO]: Preparing start region for level 0
+[09:17:17] [Server thread/INFO]: [shadow.org.slf4j.helpers.Util:report:43]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+[09:17:17] [Server thread/INFO]: [shadow.org.slf4j.helpers.Util:report:43]: SLF4J: Defaulting to no-operation (NOP) logger implementation
+[09:17:17] [Server thread/INFO]: [shadow.org.slf4j.helpers.Util:report:43]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[09:17:17] [Server thread/INFO]: ***************************** starting web server
+[09:17:17] [Server thread/INFO]: license check start
+[09:17:17] [Server thread/INFO]: uuid:/192.168.10.4
+[09:17:17] [Server thread/INFO]: networkkey:2bd8a5ef0fc28d299eeb3bbcf4382d97fc65cf8d
+[09:17:17] [Server thread/INFO]: license_key:e4254fb9380dd196f2b663dd74b51b5d
+[09:17:17] [Server thread/INFO]: http result {"status":true,"icon":"http:\/\/license.8x9.jp\/const\/default.png","name":"\u30108x9\u3011\u5bfa\u5712\u8056\u6587","max_number":100}
+[09:17:18] [Server thread/INFO]: Unloading dimension -1
+[09:17:18] [Server thread/INFO]: Unloading dimension 1
+[09:17:18] [Server thread/INFO]: Changing view distance to 12, from 10
+[09:17:25] [Netty Local Client IO #0/INFO]: Server protocol version 2
+[09:17:25] [Netty Server IO #1/INFO]: Client protocol version 2
+[09:17:25] [Netty Server IO #1/INFO]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2768,worldedit@6.1.8,mcp@9.42,mc8x9@1.6
+[09:17:25] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[09:17:25] [Server thread/INFO]: [Server thread] Server side modded connection established
+[09:17:25] [Server thread/INFO]: yokmama[local:E:ffd8fa57] logged in with entity id 214 at (-410.9479874144456, 4.0, 84.01005454741971)
+[09:17:25] [Server thread/INFO]: yokmama joined the game
+[09:17:25] [Server thread/INFO]: ************ forceChunk -26 6 [ca757998-5f79-4647-8ca6-8dc733ddcf72]
+[09:17:25] [Server thread/INFO]: ************ forceChunk -25 4 [ca757998-5f79-4647-8ca6-8dc733ddcf72]
+[09:17:25] [Server thread/INFO]: ************ forceChunk -25 5 [ca757998-5f79-4647-8ca6-8dc733ddcf72]
+[09:17:25] [Server thread/INFO]: ************ forceChunk -27 6 [ca757998-5f79-4647-8ca6-8dc733ddcf72]
+[09:17:25] [Server thread/INFO]: ************ forceChunk -27 4 [ca757998-5f79-4647-8ca6-8dc733ddcf72]
+[09:17:25] [Server thread/INFO]: ************ forceChunk -26 5 [ca757998-5f79-4647-8ca6-8dc733ddcf72]
+[09:17:25] [Server thread/INFO]: ************ forceChunk -27 5 [ca757998-5f79-4647-8ca6-8dc733ddcf72]
+[09:17:25] [Server thread/INFO]: ************ forceChunk -25 6 [ca757998-5f79-4647-8ca6-8dc733ddcf72]
+[09:17:25] [Server thread/INFO]: ************ forceChunk -26 4 [ca757998-5f79-4647-8ca6-8dc733ddcf72]
+[09:17:25] [Server thread/INFO]: ****************** onPlayerLogin yokmama
+[09:17:25] [Server thread/INFO]: ************** addPlayer 21440 rel 63cbd9e5-93a8-4816-9d47-d42a283812ce
+[09:17:26] [Netty Local Client IO #0/INFO]: [CHAT] 8x9Craftの世界へようこそ, yokmama§r , バージョン: 1.6 (Meiko)
+[09:17:26] [Netty Local Client IO #0/INFO]: [CHAT] http://192.168.10.4:25580/codeEditor
+[09:17:26] [Netty Local Client IO #0/INFO]: [CHAT] 
+[09:17:26] [Server thread/INFO]: Saving and pausing game...
+[09:17:26] [Server thread/INFO]: Saving chunks for level 'hakkunworld'/overworld
+[09:17:27] [Server thread/INFO]: ************ forceChunk -20 4 [9b6b83b2-b559-40a8-8c0e-fe2c06462f08]
+[09:17:27] [Server thread/INFO]: ************ forceChunk -21 3 [9b6b83b2-b559-40a8-8c0e-fe2c06462f08]
+[09:17:27] [Server thread/INFO]: ************ forceChunk -20 5 [9b6b83b2-b559-40a8-8c0e-fe2c06462f08]
+[09:17:27] [Server thread/INFO]: ************ forceChunk -22 3 [9b6b83b2-b559-40a8-8c0e-fe2c06462f08]
+[09:17:27] [Server thread/INFO]: ************ forceChunk -22 4 [9b6b83b2-b559-40a8-8c0e-fe2c06462f08]
+[09:17:27] [Server thread/INFO]: ************ forceChunk -21 5 [9b6b83b2-b559-40a8-8c0e-fe2c06462f08]
+[09:17:27] [Server thread/INFO]: ************ forceChunk -22 5 [9b6b83b2-b559-40a8-8c0e-fe2c06462f08]
+[09:17:27] [Server thread/INFO]: ************ forceChunk -20 3 [9b6b83b2-b559-40a8-8c0e-fe2c06462f08]
+[09:17:27] [Server thread/INFO]: ************ forceChunk -21 4 [9b6b83b2-b559-40a8-8c0e-fe2c06462f08]
+[09:17:27] [main/INFO]: Loaded 237 advancements
+[09:17:35] [Server thread/INFO]: Saving and pausing game...
+[09:17:35] [Server thread/INFO]: Saving chunks for level 'hakkunworld'/overworld
+[09:17:36] [Server thread/INFO]: ***************************** stoping web server
+[09:17:36] [Server thread/INFO]: ***************************** Failure web server
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: java.lang.NullPointerException: Null string not allowed
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at java.util.Objects.requireNonNull(Objects.java:228)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at net.minecraft.nbt.NBTTagString.<init>(NBTTagString.java:19)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at net.minecraft.nbt.NBTTagCompound.func_74778_a(NBTTagCompound.java:137)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.kayosystem.mc8x9.database.WorldStorage.removeLicenseKey(WorldStorage.java:235)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.kayosystem.mc8x9.Main.removeLicenseKey(Main.java:720)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.kayosystem.mc8x9.util.LicenseClient.action(LicenseClient.java:89)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.kayosystem.mc8x9.util.LicenseClient.stop(LicenseClient.java:74)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.kayosystem.mc8x9.server.Craft8x9WebServer.lifeCycleStopping(Craft8x9WebServer.java:110)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at org.eclipse.jetty.util.component.AbstractLifeCycle.setStopping(AbstractLifeCycle.java:197)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at org.eclipse.jetty.util.component.AbstractLifeCycle.stop(AbstractLifeCycle.java:88)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.kayosystem.mc8x9.server.Craft8x9WebServer.stop(Craft8x9WebServer.java:412)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.kayosystem.mc8x9.Main.serverStopping(Main.java:256)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:624)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at sun.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at net.minecraftforge.fml.common.Loader.serverStopping(Loader.java:813)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at net.minecraftforge.fml.common.FMLCommonHandler.handleServerStopping(FMLCommonHandler.java:308)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:533)
+[09:17:36] [Server thread/INFO]: [com.kayosystem.mc8x9.server.Craft8x9WebServer:stop:414]: 	at java.lang.Thread.run(Thread.java:745)
+[09:17:36] [Server thread/INFO]: Stopping server
+[09:17:36] [Server thread/INFO]: Saving players
+[09:17:36] [Server thread/INFO]: yokmama lost connection: Disconnected
+[09:17:36] [Server thread/INFO]: yokmama left the game
+[09:17:36] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[09:17:36] [Server thread/INFO]: Saving worlds
+[09:17:36] [Server thread/INFO]: Saving chunks for level 'hakkunworld'/overworld
+[09:17:36] [Server thread/INFO]: Unloading dimension 0
+[09:17:36] [Server thread/INFO]: Applying holder lookups
+[09:17:36] [Server thread/INFO]: Holder lookups applied
+[09:17:38] [main/INFO]: Stopping!
+[09:17:38] [main/INFO]: SoundSystem shutting down...
+[09:17:38] [main/WARN]: Author: Paul Lamb, www.paulscode.com
